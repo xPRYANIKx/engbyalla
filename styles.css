@@ -41,7 +41,7 @@ h1{font-family:var(--serif);font-size:clamp(32px,3.7vw,51px);font-weight:400;lin
 
 .nav-link:hover{color:var(--olive);background:#dce3cf}
 .service-icon{width:20px;height:20px;flex-shrink:0;display:block;background:currentColor;mask:var(--icon) center/contain no-repeat;-webkit-mask:var(--icon) center/contain no-repeat;color:var(--olive)}
-.icon-telegram{--icon:url("assets/icons/telegram.svg")}.icon-pinterest{--icon:url("assets/icons/pinterest.svg")}.icon-dzen{--icon:url("assets/icons/dzen.svg")}.icon-vk{--icon:url("assets/icons/vk.svg")}.icon-stepik{--icon:url("assets/icons/stepik.svg")}
+.icon-telegram{--icon:url("assets/icons/telegram.svg?v=20261017")}.icon-pinterest{--icon:url("assets/icons/pinterest.svg?v=20261017")}.icon-dzen{--icon:url("assets/icons/dzen.svg?v=20261017")}.icon-vk{--icon:url("assets/icons/vk.svg?v=20261017")}.icon-stepik{--icon:url("assets/icons/stepik.svg?v=20261017")}
 .link-arrow{width:15px;height:15px;flex-shrink:0;fill:none;stroke:currentColor;stroke-width:1.3;margin-left:auto;transition:transform .25s}
 .nav-link:hover .link-arrow,.course:hover .link-arrow{transform:translate(2px,-2px)}
 .social-links{display:flex;gap:10px;margin-top:calc(15px * var(--density))}
