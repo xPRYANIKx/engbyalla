@@ -1,0 +1,8 @@
+{
+  "telegram.svg": {"source":"https://github.com/simple-icons/simple-icons/blob/develop/icons/telegram.svg", "license":"CC0-1.0; brand trademark retained"},
+  "pinterest.svg": {"source":"https://github.com/simple-icons/simple-icons/blob/develop/icons/pinterest.svg", "license":"CC0-1.0; brand trademark retained"},
+  "vk.svg": {"source":"https://github.com/simple-icons/simple-icons/blob/develop/icons/vk.svg", "license":"CC0-1.0; brand trademark retained"},
+  "dzen.svg": {"source":"https://commons.wikimedia.org/wiki/File:Zen_logo_2024.svg", "originalSource":"https://dzen.ru/about/download", "license":"PD-textlogo; trademark retained", "changes":"Isolated square symbol and converted white star to transparent cutout"},
+  "stepik.svg": {"source":"https://github.com/StepicOrg/stepik-android/blob/master/app/src/main/res/drawable/ic_purchase_stepik.xml", "changes":"Converted vendor vector foreground path to monochrome SVG", "usage":"Brand identification link to Stepik"},
+  "tj-mark": {"source":"https://t-j.ru/", "format":"Text monogram, not an extracted official SVG"}
+}
